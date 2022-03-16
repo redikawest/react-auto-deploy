@@ -32,4 +32,4 @@ jobs:
             git pull origin master
             git status
             npm install
-            pm2 restart reactAuto
+            pm2 restart react-test 
